@@ -1,2 +1,2 @@
 # azure-iac-devops
-Terraform for deploying an RG with Logic Apps and SQL Database
+Terraform for deploying a RG with Logic Apps and SQL Database
